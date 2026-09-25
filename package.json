@@ -1,0 +1,34 @@
+{
+  "name": "run_it_backend",
+  "version": "1.0.0",
+  "description": "i wanted to re-code my backend intro project to get faster and better in general",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": " node backend/src/index.js",
+    "dev": "nodemon backend/src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YuriCendejas/run_it_backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YuriCendejas/run_it_backend/issues"
+  },
+  "homepage": "https://github.com/YuriCendejas/run_it_backend#readme",
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "dotenv": "^18.0.3",
+    "express": "^5.2.1",
+    "jsonwebtoken": "^9.0.3",
+    "mongoose": "^9.10.2",
+    "morgan": "^1.12.1",
+    "validator": "^13.15.35"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
