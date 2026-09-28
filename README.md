@@ -10,4 +10,4 @@ first Api test on postmon starting with register .
 testing the curl test with the code --> router.get("/",(req,res) => {
     res.json({message:"user routes works !"})
 }); 
-<img width="1167" height="1096" alt="Screenshot 2026-09-27 at 9 59 00 PM" src="https://github.com/user-attachments/assets/adcf9d89-4def-4231-b6e0-beec78ac33b6" />
+<img width="1167" height="1096" alt="Screenshot 2026-09-27 at 9 59 00 PM" src="https://github.com/user-attachments/assets/ee031787-bdb8-4e99-a279-89e689ae7b2e" />
