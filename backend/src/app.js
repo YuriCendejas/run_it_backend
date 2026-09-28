@@ -9,7 +9,7 @@ app.get("/",(req,res) =>{res.send("server is working!");
 
 });
 
-app.use('/api/users',userRoutes); // this connects to the "/register",userRoutes in my user.routes file
+app.use('/api/users',userRoutes); // this connects to the "/register",userRoutes in my user.routes file . everything in user.routes starts with /api/users/ on postmon
 
 
 export default app;
