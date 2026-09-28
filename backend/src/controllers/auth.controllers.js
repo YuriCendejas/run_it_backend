@@ -57,7 +57,7 @@ const token = jwt.sign({id:user._id, // .sign() bc its going to assign the token
 process.env.JWT_SECRET, // bc its going to look in the env file for the answer to this.
 {expiresIn:process.env.JWT_EXPIRES_IN,} // also in the .env file.
 );
-
+return res.status(200).json({messages:"Login Succesfull",token,});
 }catch (error) { return res.status(500).json({message:"Internal server error"});
         
     }
