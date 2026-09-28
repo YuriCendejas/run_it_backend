@@ -30,4 +30,7 @@ await User.create({ // this tells mongoose create a new document in the user col
     }
     
 };
+
+
+
 export {registerUser};
