@@ -40,7 +40,7 @@ const userSchema = new Schema ({
 
 
 
-          userSchema.methods.comparedPassword = function(password){
+          userSchema.methods.comparePassword = function(password){
             return bcrypt.compare(password,this.password)
           } // so basically it just wants to compare passwords
 

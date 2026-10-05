@@ -58,7 +58,7 @@ process.env.JWT_SECRET, // bc its going to look in the env file for the answer t
 {expiresIn:process.env.JWT_EXPIRES_IN,} // also in the .env file.
 );
 return res.status(200).json({message:"Login Succesfull",token});
-}catch (error) { return res.status(500).json({message:"Internal server error"});
+} catch (error) { console.error(error); return res.status(500).json({message:"Internal server error"});
         
     }
 };
