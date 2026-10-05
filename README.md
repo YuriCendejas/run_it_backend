@@ -17,6 +17,8 @@ bug fixes ., creating /login
 
 <img width="1282" height="809" alt="Screenshot 2026-10-05 at 2 46 28 PM" src="https://github.com/user-attachments/assets/5ba64007-5ff5-4971-811c-fb1f08b57d28" />
 <img width="1291" height="799" alt="Screenshot 2026-10-05 at 2 50 51 PM" src="https://github.com/user-attachments/assets/f72e6dde-43e6-43c0-ae89-d9142271da38" />
+<img width="1281" height="796" alt="Screenshot 2026-10-05 at 2 58 09 PM" src="https://github.com/user-attachments/assets/d4bd7552-5304-4569-9fec-3b72c7b8dcf0" />
+
 <img width="1285" height="812" alt="Screenshot 2026-10-05 at 2 51 28 PM" src="https://github.com/user-attachments/assets/167bd547-5e22-4d07-a144-f6d040d39cb1" />
 <img width="1281" height="794" alt="Screenshot 2026-10-05 at 2 52 08 PM" src="https://github.com/user-attachments/assets/be9deaf9-0adc-40a9-ae35-df1c762e0857" />
 <img width="1281" height="796" alt="Screenshot 2026-10-05 at 2 58 09 PM" src="https://github.com/user-attachments/assets/5cba0a92-e4fe-45d7-adf4-ce48196068a7" />
