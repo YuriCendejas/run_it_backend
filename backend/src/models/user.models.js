@@ -38,10 +38,8 @@ const userSchema = new Schema ({
             this.password = await bcrypt.hash(this.password,10); // hashes 10 times 
         });
 
-
-
           userSchema.methods.comparePassword = function(password){
             return bcrypt.compare(password,this.password)
           } // so basically it just wants to compare passwords
 
-export const User=mongoose.model("User",userSchema);
+export const User = mongoose.model("User",userSchema);
