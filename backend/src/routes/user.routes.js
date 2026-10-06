@@ -3,6 +3,7 @@ import { registerUser,
     loginUser,
     logoutUser
 } from "../controllers/auth.controllers.js";
+import { protect } from "../middleware/auth.middleware.js";
 
 
 const router = Router();
@@ -14,6 +15,6 @@ router.get("/",(req,res) => {
 router.post("/register",registerUser); // create register on postmon and test the api  "/api/users/register"
 router.post("/login",loginUser); // login the user if the email and password is correct. 
 router.post("/logout",logoutUser);
-
+router.get("/profile",protect,getUserProfile); // middleware with user.controller.js
 
 export default router;
