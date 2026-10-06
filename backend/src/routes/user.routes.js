@@ -1,6 +1,7 @@
 import {Router} from "express";
 import { registerUser,
     loginUser,
+    logoutUser
 } from "../controllers/auth.controllers.js";
 
 
@@ -12,7 +13,7 @@ router.get("/",(req,res) => {
 
 router.post("/register",registerUser); // create register on postmon and test the api  "/api/users/register"
 router.post("/login",loginUser); // login the user if the email and password is correct. 
-
+router.post("/logout",logoutUser);
 
 
 export default router;
