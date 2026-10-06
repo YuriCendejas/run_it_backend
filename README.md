@@ -22,3 +22,10 @@ bug fixes ., creating /login
 <img width="1285" height="812" alt="Screenshot 2026-10-05 at 2 51 28 PM" src="https://github.com/user-attachments/assets/167bd547-5e22-4d07-a144-f6d040d39cb1" />
 <img width="1281" height="794" alt="Screenshot 2026-10-05 at 2 52 08 PM" src="https://github.com/user-attachments/assets/be9deaf9-0adc-40a9-ae35-df1c762e0857" />
 <img width="1281" height="796" alt="Screenshot 2026-10-05 at 2 58 09 PM" src="https://github.com/user-attachments/assets/5cba0a92-e4fe-45d7-adf4-ce48196068a7" />
+
+login user on postman
+<img width="1270" height="797" alt="Screenshot 2026-10-05 at 8 36 42 PM" src="https://github.com/user-attachments/assets/2124c620-4369-4651-80be-c63b7cc41281" />
+
+
+the LogOut user on postman
+<img width="1279" height="806" alt="Screenshot 2026-10-05 at 8 37 27 PM" src="https://github.com/user-attachments/assets/8ca3e142-bf47-4038-b007-1e3f818f9ecb" />
