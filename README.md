@@ -29,3 +29,15 @@ login user on postman
 
 the LogOut user on postman
 <img width="1279" height="806" alt="Screenshot 2026-10-05 at 8 37 27 PM" src="https://github.com/user-attachments/assets/8ca3e142-bf47-4038-b007-1e3f818f9ecb" />
+
+
+full authorization , login,logout,profile,register. 👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼
+
+<img width="1033" height="800" alt="Screenshot 2026-10-06 at 8 16 26 PM" src="https://github.com/user-attachments/assets/f8841c6c-2858-4201-96fd-39aa2113a9ff" />
+<img width="1038" height="776" alt="Screenshot 2026-10-06 at 8 16 43 PM" src="https://github.com/user-attachments/assets/95f55ad7-abe1-46a8-970e-c82449bc1476" />
+<img width="1033" height="829" alt="Screenshot 2026-10-06 at 8 17 04 PM" src="https://github.com/user-attachments/assets/814d4061-370a-4c77-8556-59b65a7e1595" />
+<img width="1039" height="803" alt="Screenshot 2026-10-06 at 8 23 15 PM" src="https://github.com/user-attachments/assets/955dbb3b-b601-4234-813f-20908ebe9935" />
+
+
+
+
