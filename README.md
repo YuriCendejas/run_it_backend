@@ -38,6 +38,11 @@ full authorization , login,logout,profile,register. 👇🏼👇🏼👇🏼👇
 <img width="1033" height="829" alt="Screenshot 2026-10-06 at 8 17 04 PM" src="https://github.com/user-attachments/assets/814d4061-370a-4c77-8556-59b65a7e1595" />
 <img width="1039" height="803" alt="Screenshot 2026-10-06 at 8 23 15 PM" src="https://github.com/user-attachments/assets/955dbb3b-b601-4234-813f-20908ebe9935" />
 
+creating a post , with it being tied to the account specifically of who created it . 👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼
+<img width="2229" height="1123" alt="Screenshot 2026-10-10 at 1 47 44 PM" src="https://github.com/user-attachments/assets/9692c64f-a128-4c6f-b007-b78619623cf8" />
+
+
+
 
 
 
