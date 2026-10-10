@@ -39,7 +39,8 @@ full authorization , login,logout,profile,register. 👇🏼👇🏼👇🏼👇
 <img width="1039" height="803" alt="Screenshot 2026-10-06 at 8 23 15 PM" src="https://github.com/user-attachments/assets/955dbb3b-b601-4234-813f-20908ebe9935" />
 
 creating a post , with it being tied to the account specifically of who created it . 👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼
-<img width="2229" height="1123" alt="Screenshot 2026-10-10 at 1 47 44 PM" src="https://github.com/user-attachments/assets/9692c64f-a128-4c6f-b007-b78619623cf8" />
+<img width="2221" height="1124" alt="Screenshot 2026-10-10 at 1 54 49 PM" src="https://github.com/user-attachments/assets/7f5eef2b-917d-4c69-a35f-ae8fc9c88116" />
+
 
 
 
