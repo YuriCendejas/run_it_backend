@@ -3,8 +3,9 @@ import jwt  from "jsonwebtoken";
 const protect = (req,res,next) => {
     try {
         const authHeader = req.headers.authorization;
-        if (!authHeader || !authHeader.startsWith("Bearer ")) // the frontend with request a token starting with "bearer {{token}}"" or bearer hscdubdbs etc...
+        if (!authHeader || !authHeader.startsWith("Bearer ")) {// the frontend with request a token starting with "bearer {{token}}"" or bearer hscdubdbs etc...
         return res.status(401).json({message :" no token provided "});
+        }
 
      const token = authHeader.split(" ")[1]; // grabs the actual token without the word "bearer" . splits suppose to make it into an array
 

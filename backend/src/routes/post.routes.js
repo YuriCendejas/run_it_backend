@@ -6,6 +6,6 @@ import {protect} from "../middleware/auth.middleware.js"
 const router = Router(); 
 //creates an express router
 router.post('/create',protect,createPost);
-router.get("/getPosts",protect,getPosts);
+router.get("/getPosts",protect,getPosts); // the protect is from the auth.middleware file
 
 export default router;
