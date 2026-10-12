@@ -9,3 +9,4 @@ router.post('/create',protect,createPost);
 router.get("/getPosts",protect,getPosts); // the protect is from the auth.middleware file
 
 export default router;
+
