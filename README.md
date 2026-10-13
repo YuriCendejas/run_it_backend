@@ -44,6 +44,16 @@ creating a post , with it being tied to the account specifically of who created 
 get post using the bearer token 👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼 of All post not just one specific 
 <img width="2240" height="1131" alt="Screenshot 2026-10-11 at 4 23 49 PM" src="https://github.com/user-attachments/assets/7b2f2d6c-ee52-47bd-8bff-8ea8d6795a13" />
 
+updateing 👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼
+
+<img width="2220" height="1115" alt="Screenshot 2026-10-12 at 8 26 50 PM" src="https://github.com/user-attachments/assets/af6e0d68-71b2-4134-b398-ea6d1c5840fa" />
+<img width="2232" height="1133" alt="Screenshot 2026-10-12 at 8 28 38 PM" src="https://github.com/user-attachments/assets/b236c98f-3d76-4d7f-88f6-b33d9af53004" />
+<img width="2230" height="1128" alt="Screenshot 2026-10-12 at 8 29 02 PM" src="https://github.com/user-attachments/assets/3789494a-2cf7-43c5-bd64-199d9c108165" />
+<img width="1957" height="1119" alt="Screenshot 2026-10-12 at 8 30 07 PM" src="https://github.com/user-attachments/assets/2e64c6f7-e790-4136-bc8b-f7f4fbbf8f90" />
+
+
+
+
 
 
 
