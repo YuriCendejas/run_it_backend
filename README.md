@@ -52,6 +52,9 @@ updateing 👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇�
 <img width="1957" height="1119" alt="Screenshot 2026-10-12 at 8 30 07 PM" src="https://github.com/user-attachments/assets/2e64c6f7-e790-4136-bc8b-f7f4fbbf8f90" />
 
 
+Deleting post BUT THE WRONG USER is trying to delete . they are not allowed 👇🏼
+<img width="2240" height="1140" alt="Screenshot 2026-10-15 at 10 53 12 AM" src="https://github.com/user-attachments/assets/aa76d667-9a09-4f3e-b5e4-0e8a4667e8d7" />
+
 
 
 
