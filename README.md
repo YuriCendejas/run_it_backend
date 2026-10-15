@@ -55,7 +55,15 @@ updateing 👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇�
 Deleting post BUT THE WRONG USER is trying to delete . they are not allowed 👇🏼
 <img width="2240" height="1140" alt="Screenshot 2026-10-15 at 10 53 12 AM" src="https://github.com/user-attachments/assets/aa76d667-9a09-4f3e-b5e4-0e8a4667e8d7" />
 
+deleting post With the correct person logged in to delete it 👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼
+<img width="2234" height="1127" alt="Screenshot 2026-10-15 at 11 11 54 AM" src="https://github.com/user-attachments/assets/86eeb77c-a272-49c2-98ef-f8daa4a26f37" />
 
+we can confirm that the users ID post has been deleted by checking on getPost on postman 👇🏼👇🏼👇🏼👇🏼<img width="2232" height="1127" alt="Screenshot 2026-10-15 at 11 16 36 AM" src="https://github.com/user-attachments/assets/2ae3fc8a-4054-410e-a205-0b533512ca9f" />
+
+
+
+Thank you for following along ! 👩🏻‍💻 
+-Yuri
 
 
 
