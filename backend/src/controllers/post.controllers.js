@@ -1,4 +1,4 @@
-import e from "express";
+import express from "express";
 import { post } from "../models/post.models.js";
 
 
@@ -82,6 +82,34 @@ return res.status(200).json({message: " post updated ! ",
 
 };
 
+//deleting a post 
+ const deletePosts = async (req,res) => {
+    try {
+        const badPost = await post.findById(req.params.id);
+
+        if(!badPost){
+            return res.status(404).json({message:"Post Not found!"});// checking if the post is found or not
+            }
+
+//checking if the person owns it is the one who wants to edit it 
+if(String(badPost.createdBy) !== String(req.user.id)){
+    return res.status(403).json({message:"you are not allowed to delete this"});
+}
 
 
- export {createPost,getPosts,updatePosts};
+        await badPost.deleteOne(); // just delete that specific one 
+
+   return res.status(200).json({message:"Post Deleted !"});
+        
+
+        
+    } catch (error) {
+        console.error(error);
+        return res.status(500).json({message:"internal server error"
+
+        });
+    }
+ };
+
+
+ export {createPost,getPosts,updatePosts,deletePosts};
